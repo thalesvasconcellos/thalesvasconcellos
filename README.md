@@ -20,4 +20,4 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor Back-End apaixonado por tec
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesvasconcellos&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesvasconcellos&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesvasconcellos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
